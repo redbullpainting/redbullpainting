@@ -1,6 +1,6 @@
 - 👋 Hi, I’m suman kaur
 - 👀 I’m interested in coding
-- 🌱 I’m persuing full stack developer course from codecademy.
+- 🌱 Completed full stack development study from codecademy  
 - 📫 How to reach me by my email address: kaursumanf82@gmail.com
 
 <!---
